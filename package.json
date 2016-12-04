@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript development environment by Saif",
   "scripts": {
+    "start": "babel-node buildScripts/startMessage.js"
   },
   "author": "Saif",
   "license": "MIT",
